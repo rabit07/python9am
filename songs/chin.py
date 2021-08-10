@@ -1,0 +1,2 @@
+def chin():
+    print("Chinese")
